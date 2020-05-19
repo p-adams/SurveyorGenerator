@@ -79,7 +79,4 @@ fun main() {
     for(language in languages) {
         File("./out/$language.json").writeText(generateSnapshot(language))
     }
-    /* languages.map { language ->
-        File("./out/$language.json").writeText(generateSnapshot(language))
-    } }*/
 }
