@@ -1,0 +1,66 @@
+{
+  "summary": "Objective-C",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png",
+    "details": "Objective-C Programming"
+  },
+  "table": {
+    "headings": [
+      "Paradigm",
+      "Family",
+      "Designed by",
+      "First appeared",
+      "Stable release",
+      "Typing discipline",
+      "OS",
+      "Filename extensions",
+      "Website",
+      "Major implementations",
+      "Influenced by",
+      "Influenced"
+    ],
+    "data": {
+      "links": [
+        "/wiki/Reflection_(computer_science)",
+        "/wiki/Class-based_programming",
+        "/wiki/Object-oriented_programming",
+        "/wiki/C_(programming_language)",
+        "/wiki/Brad_Cox",
+        "#cite_note-1",
+        "/wiki/Static_typing",
+        "/wiki/Dynamic_typing",
+        "/wiki/Weak_typing",
+        "/wiki/Cross-platform",
+        "https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
+        "/wiki/Clang",
+        "/wiki/GNU_Compiler_Collection",
+        "/wiki/C_(programming_language)",
+        "/wiki/Smalltalk",
+        "/wiki/Groovy_(programming_language)",
+        "/wiki/Java_(programming_language)",
+        "/wiki/Nu_(programming_language)",
+        "/wiki/Objective-J",
+        "/wiki/TOM_(object-oriented_programming_language)",
+        "/wiki/Swift_(programming_language)",
+        "#cite_note-lattner2014-2",
+        "/wiki/File:Wikibooks-logo-en-noslogan.svg",
+        "https://en.wikibooks.org/wiki/Objective-C_Programming"
+      ],
+      "text": [
+        "Reflective, class-based object-oriented",
+        "C",
+        "Tom Love and Brad Cox",
+        "1984; 36 years ago (1984)",
+        "2.0[1]",
+        "static, dynamic, weak",
+        "Cross-platform",
+        ".h, .m, .mm, .M",
+        "developer.apple.com",
+        "Clang, GCC",
+        "C, Smalltalk",
+        "Groovy, Java, Nu, Objective-J, TOM, Swift[2]",
+        "Objective-C Programming at Wikibooks"
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "summary": "JavaScript",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png",
+    "details": "JavaScript"
+  },
+  "table": {
+    "headings": [
+      "Paradigm",
+      "Designed by",
+      "First appeared",
+      "Stable release",
+      "Preview release",
+      "Typing discipline",
+      "Filename extensions",
+      "Major implementations",
+      "Influenced by",
+      "Influenced"
+    ],
+    "data": {
+      "links": [
+        "/wiki/Event-driven_programming",
+        "/wiki/Functional_programming",
+        "/wiki/Imperative_programming",
+        "/wiki/Brendan_Eich",
+        "/wiki/ECMAScript",
+        "#cite_note-press_release-1",
+        "#cite_note-auto-2",
+        "/wiki/Dynamic_typing",
+        "/wiki/Duck_typing",
+        "#cite_note-node.js_ECMAScript_Modules_Specification-3",
+        "/wiki/V8_(JavaScript_engine)",
+        "/wiki/JavaScriptCore",
+        "/wiki/SpiderMonkey_(JavaScript_engine)",
+        "/wiki/Chakra_(JScript_engine)",
+        "/wiki/AWK",
+        "#cite_note-4",
+        "/wiki/C_(programming_language)",
+        "/wiki/HyperTalk",
+        "/wiki/Java_(programming_language)",
+        "#cite_note-5",
+        "/wiki/Lua_(programming_language)",
+        "/wiki/Perl",
+        "/wiki/Python_(programming_language)",
+        "/wiki/Scheme_(programming_language)",
+        "/wiki/Self_(programming_language)",
+        "/wiki/ActionScript",
+        "/wiki/AtScript",
+        "/wiki/CoffeeScript",
+        "/wiki/Dart_(programming_language)",
+        "/wiki/JScript_.NET",
+        "/wiki/LiveScript",
+        "/wiki/Objective-J",
+        "/wiki/Opa_(programming_language)",
+        "/wiki/QML",
+        "/wiki/Raku_(programming_language)",
+        "/wiki/TypeScript",
+        "/wiki/File:Wikibooks-logo-en-noslogan.svg",
+        "https://en.wikibooks.org/wiki/JavaScript"
+      ],
+      "text": [
+        "event-driven, functional, imperative",
+        "Brendan Eich initially, plus other key contributors to the ECMAScript specification",
+        "December 4, 1995; 24 years ago (1995-12-04)[1]",
+        "ECMAScript 2019[2] / June 2019; 11 months ago (2019-06)",
+        "ECMAScript 2020",
+        "Dynamic, duck",
+        ".js .mjs[3]",
+        "V8, JavaScriptCore, SpiderMonkey, Chakra",
+        "AWK[4], C, HyperTalk, Java[5], Lua, Perl, Python, Scheme, Self",
+        "ActionScript, AtScript, CoffeeScript, Dart, JScript .NET, LiveScript, Objective-J, Opa, QML, Raku, TypeScript",
+        "JavaScript at Wikibooks"
+      ]
+    }
+  }
+}

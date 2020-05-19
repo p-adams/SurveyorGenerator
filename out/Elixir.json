@@ -1,0 +1,55 @@
+{
+  "summary": "Elixir",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png",
+    "details": ""
+  },
+  "table": {
+    "headings": [
+      "Paradigm",
+      "First appeared",
+      "Stable release",
+      "Typing discipline",
+      "Platform",
+      "License",
+      "Filename extensions",
+      "Website",
+      "Influenced by",
+      "Influenced"
+    ],
+    "data": {
+      "links": [
+        "/wiki/File:Elixir_programming_language_logo.png",
+        "/wiki/Multi-paradigm_programming_language",
+        "/wiki/Functional_programming",
+        "/wiki/Concurrent_programming",
+        "/wiki/Distributed_programming",
+        "/wiki/Process-oriented_programming",
+        "#cite_note-github-releases-1",
+        "/wiki/Type_system",
+        "/wiki/Strong_typing",
+        "/wiki/Duck_typing",
+        "/wiki/Erlang_(programming_language)",
+        "/wiki/Apache_License_2.0",
+        "#cite_note-2",
+        "https://elixir-lang.org",
+        "/wiki/Clojure",
+        "/wiki/Erlang_(programming_language)",
+        "/wiki/Ruby_(programming_language)",
+        "/wiki/LFE_(programming_language)"
+      ],
+      "text": [
+        "multi-paradigm: functional, concurrent, distributed, process-oriented",
+        "2011; 9 years ago (2011)",
+        "1.10.3 / 25 April 2020; 22 days ago (2020-04-25)[1]",
+        "dynamic, strong, duck",
+        "Erlang",
+        "Apache License 2.0[2]",
+        ".ex, .exs",
+        "elixir-lang.org",
+        "Clojure, Erlang, Ruby",
+        "LFE"
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "summary": "Bash",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/152px-Gnu-bash-logo.svg.png",
+    "details": "Screenshot of a Bash session"
+  },
+  "table": {
+    "headings": [
+      "Original author(s)",
+      "Initial release",
+      "Stable release",
+      "Repository",
+      "Written in",
+      "Operating system",
+      "Platform",
+      "Available in",
+      "Type",
+      "License",
+      "Website"
+    ],
+    "data": {
+      "links": [
+        "/wiki/File:Gnu-bash-logo.svg",
+        "/wiki/File:Bash_screenshot.png",
+        "/wiki/Brian_Fox_(computer_programmer)",
+        "https://en.wikipedia.org/w/index.php?title\u003dTemplate:Latest_stable_software_release/Bash\u0026action\u003dedit",
+        "#cite_note-1",
+        "#cite_note-2",
+        "https://git.savannah.gnu.org/cgit/bash.git",
+        "https://www.wikidata.org/wiki/Q189248#P1324",
+        "/wiki/C_(programming_language)",
+        "/wiki/Unix-like",
+        "#cite_note-3",
+        "/wiki/MacOS",
+        "/wiki/GNU_GPL#Version_2",
+        "/wiki/Windows",
+        "/wiki/GNU_GPL#Version_3",
+        "#cite_note-4",
+        "#cite_note-5",
+        "/wiki/GNU",
+        "/wiki/Gettext",
+        "/wiki/Unix_shell",
+        "/wiki/Command_language",
+        "/wiki/GNU_GPL#Version_3",
+        "#cite_note-license-6",
+        "https://www.gnu.org/software/bash/"
+      ],
+      "text": [
+        "Screenshot of a Bash session",
+        "Brian Fox",
+        "June 8, 1989; 30 years ago (1989-06-08)",
+        "5.0 (January 7, 2019; 16 months ago (2019-01-07)) [±][1][2]",
+        "git.savannah.gnu.org/cgit/bash.git",
+        "C",
+        "Unix-like,[3] macOS (only latest GPLv2 release; GPLv3 releases available through third parties Windows (newer GPLv3+ version)[4][5]",
+        "GNU",
+        "Multilingual (gettext)",
+        "Unix shell, command language",
+        "GPLv3+[6]",
+        "www.gnu.org/software/bash/"
+      ]
+    }
+  }
+}

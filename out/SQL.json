@@ -1,0 +1,71 @@
+{
+  "summary": "SQL (Structured Query Language)",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png",
+    "details": "Structured Query Language"
+  },
+  "table": {
+    "headings": [
+      "Paradigm",
+      "Family",
+      "Designed by",
+      "Developer",
+      "First appeared",
+      "Stable release",
+      "Typing discipline",
+      "OS",
+      "Major implementations",
+      "Dialects",
+      "Influenced by",
+      "Influenced"
+    ],
+    "data": {
+      "links": [
+        "/wiki/Declarative_programming",
+        "/wiki/Query_language",
+        "/wiki/Donald_D._Chamberlin",
+        "/wiki/Raymond_F._Boyce",
+        "/wiki/International_Organization_for_Standardization",
+        "/wiki/International_Electrotechnical_Commission",
+        "/wiki/SQL:2016",
+        "/wiki/Static_typing",
+        "/wiki/Strong_typing",
+        "/wiki/Cross-platform",
+        "/wiki/List_of_relational_database_management_systems",
+        "/wiki/SQL-92",
+        "/wiki/SQL:1999",
+        "/wiki/SQL:2003",
+        "/wiki/SQL:2006",
+        "/wiki/SQL:2008",
+        "/wiki/SQL:2011",
+        "/wiki/SQL:2016",
+        "/wiki/Datalog",
+        "/wiki/Contextual_Query_Language",
+        "/wiki/Language_Integrated_Query",
+        "/wiki/SPARQL",
+        "/wiki/PowerShell",
+        "#cite_note-ars-1",
+        "/wiki/Java_Persistence_Query_Language",
+        "/wiki/Java_Object_Oriented_Querying",
+        "/wiki/N1QL",
+        "/wiki/File:Wikibooks-logo-en-noslogan.svg",
+        "https://en.wikibooks.org/wiki/Structured_Query_Language"
+      ],
+      "text": [
+        "Declarative (Only DQL)",
+        "Query language",
+        "Donald D. Chamberlin Raymond F. Boyce",
+        "ISO/IEC",
+        "1974; 46 years ago (1974)",
+        "SQL:2016 / December 2016; 3 years ago (2016-12)",
+        "Static, strong",
+        "Cross-platform",
+        "Many",
+        "SQL-86 SQL-89 SQL-92 SQL:1999 SQL:2003 SQL:2006 SQL:2008 SQL:2011 SQL:2016",
+        "Datalog",
+        "CQL, LINQ, SPARQL, SOQL, PowerShell,[1] JPQL, jOOQ, N1QL",
+        "Structured Query Language at Wikibooks"
+      ]
+    }
+  }
+}

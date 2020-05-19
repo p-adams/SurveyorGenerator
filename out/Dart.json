@@ -1,0 +1,80 @@
+{
+  "summary": "Dart",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/220px-Dart_programming_language_logo.svg.png",
+    "details": ""
+  },
+  "table": {
+    "headings": [
+      "Paradigm",
+      "Designed by",
+      "Developer",
+      "First appeared",
+      "Stable release",
+      "Preview release",
+      "Typing discipline",
+      "Platform",
+      "OS",
+      "License",
+      "Filename extensions",
+      "Website",
+      "Major implementations",
+      "Influenced by"
+    ],
+    "data": {
+      "links": [
+        "/wiki/File:Dart_programming_language_logo.svg",
+        "/wiki/Multi-paradigm",
+        "/wiki/Functional_programming",
+        "/wiki/Imperative_programming",
+        "/wiki/Object-oriented_programming",
+        "/wiki/Reflection_(computer_programming)",
+        "#cite_note-1",
+        "/wiki/Lars_Bak_(computer_programmer)",
+        "/wiki/Google",
+        "#cite_note-2",
+        "#cite_note-auto-3",
+        "#cite_note-auto-3",
+        "/wiki/Optional_typing",
+        "/wiki/Type_inference",
+        "#cite_note-4",
+        "/wiki/Static_typing",
+        "/wiki/Strong_typing",
+        "/wiki/Cross-platform",
+        "/wiki/Cross-platform",
+        "/wiki/BSD_licenses",
+        "https://dart.dev",
+        "/wiki/Flutter_(software)",
+        "/wiki/C_(programming_language)",
+        "/wiki/C_Sharp_(programming_language)",
+        "/wiki/Erlang_(programming_language)",
+        "/wiki/Java_(programming_language)",
+        "/wiki/JavaScript",
+        "/wiki/Kotlin_(programming_language)",
+        "#cite_note-5",
+        "/wiki/Ruby_(programming_language)",
+        "/wiki/Smalltalk",
+        "/wiki/Strongtalk",
+        "#cite_note-6",
+        "/wiki/TypeScript",
+        "#cite_note-7"
+      ],
+      "text": [
+        "Multi-paradigm: functional, imperative, object-oriented, reflective[1]",
+        "Lars Bak and Kasper Lund",
+        "Google",
+        "October 10, 2011; 8 years ago (2011-10-10)[2]",
+        "2.8.2 / May 13, 2020; 4 days ago (2020-05-13)[3]",
+        "2.9.0-9.0.dev / May 13, 2020; 4 days ago (2020-05-13)[3]",
+        "1.x: Optional 2.x: Inferred[4] (static, strong)",
+        "Cross-platform",
+        "Cross-platform",
+        "BSD",
+        ".dart",
+        "dart.dev",
+        "Dart VM, dart2native, dart2js, DDC, Flutter",
+        "C, C#, Erlang, Java, JavaScript, Kotlin,[5] Ruby, Smalltalk, Strongtalk,[6] TypeScript[7]"
+      ]
+    }
+  }
+}

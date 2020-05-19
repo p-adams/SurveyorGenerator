@@ -1,0 +1,69 @@
+{
+  "summary": "R",
+  "logo": {
+    "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/83px-R_logo.svg.png",
+    "details": "R terminal R Programming"
+  },
+  "table": {
+    "headings": [
+      "Paradigms",
+      "Designed by",
+      "Developer",
+      "First appeared",
+      "Stable release",
+      "Typing discipline",
+      "License",
+      "Filename extensions",
+      "Website",
+      "Influenced by",
+      "Influenced"
+    ],
+    "data": {
+      "links": [
+        "/wiki/File:R_logo.svg",
+        "/wiki/File:R_terminal.jpg",
+        "/wiki/Multi-paradigm_programming_language",
+        "/wiki/Array_programming",
+        "/wiki/Object-oriented_programming",
+        "/wiki/Imperative_programming",
+        "/wiki/Functional_programming",
+        "/wiki/Procedural_programming",
+        "/wiki/Reflective_programming",
+        "/wiki/Ross_Ihaka",
+        "/wiki/Robert_Gentleman_(statistician)",
+        "#cite_note-1",
+        "#cite_note-Interface98-2",
+        "#cite_note-3",
+        "/wiki/Dynamic_typing",
+        "/wiki/GNU_GPL#Version_2",
+        "#cite_note-4",
+        "https://www.r-project.org",
+        "https://www.wikidata.org/wiki/Q206904#P856",
+        "/wiki/Common_Lisp",
+        "/wiki/S_(programming_language)",
+        "/wiki/Scheme_(programming_language)",
+        "#cite_note-Interface98-2",
+        "/wiki/XLispStat",
+        "/wiki/Julia_(programming_language)",
+        "#cite_note-Introduction-5",
+        "/wiki/File:Wikibooks-logo-en-noslogan.svg",
+        "https://en.wikibooks.org/wiki/R_Programming"
+      ],
+      "text": [
+        "R terminal",
+        "Multi-paradigm: Array, object-oriented, imperative, functional, procedural, reflective",
+        "Ross Ihaka and Robert Gentleman",
+        "R Core Team[1]",
+        "August 1993; 26 years ago (1993-08)[2]",
+        "4.0.0 (\"Arbor Day\")[3] / April 24, 2020; 25 days ago (2020-04-24)",
+        "Dynamic",
+        "GNU GPL v2[4]",
+        ".r .rdata .rds .rda",
+        "www.r-project.org",
+        "Common Lisp S Scheme[2] XLispStat",
+        "Julia[5]",
+        "R Programming at Wikibooks"
+      ]
+    }
+  }
+}
